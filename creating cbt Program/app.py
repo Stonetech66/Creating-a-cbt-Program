@@ -5,14 +5,13 @@ class cbt:
      self.question= question
      self.answer= answer
      
-<<<<<<< HEAD
+
 """
 Edit the question_part and input your own questions with the answers
 """     
-=======
+
      
-     
->>>>>>> 4b54640fb05da66dcba84d94b368e75f637d1c82
+
      
 question_part=[
 "who is the  premier league winner of 2021/2022\n(a) chelsea\n(b) mancity\n(c) liverpool\n\n",
