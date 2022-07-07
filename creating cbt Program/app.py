@@ -9,10 +9,7 @@ class cbt:
 """
 Edit the question_part and input your own questions with the answers
 """     
-
-     
-
-     
+  
 question_part=[
 "who is the  premier league winner of 2021/2022\n(a) chelsea\n(b) mancity\n(c) liverpool\n\n",
 "who is the  champions league winner of 2021/2022\n(a) liverpool\n(b) mancity\n(c) realmadrid\n\n",
