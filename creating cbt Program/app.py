@@ -7,7 +7,7 @@ class cbt:
      
 
 """
-Edit the question_part and input your own questions with the answers
+override the question_part and input your own questions with the answers
 """     
   
 question_part=[
